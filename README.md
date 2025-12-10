@@ -188,6 +188,13 @@ Visit: <code>/admin/login</code>
 
 <hr>
 
+# Watch Video For More Information.
+[![YouTube Video](https://img.youtube.com/vi/TTbqt7PiBpw/0.jpg)](https://youtu.be/TTbqt7PiBpw?feature=shared)
+
+
+# Available Our [Hacking Course](https://linuxndroid.in)
+<hr>
+
 <h2>📄 License</h2>
 
 <p>This project is for educational & cyber-awareness purposes only.</p>
